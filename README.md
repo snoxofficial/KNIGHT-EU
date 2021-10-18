@@ -1,2 +1,1 @@
-# KNIGHT-EU
 Welcome all
